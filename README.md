@@ -1,4 +1,7 @@
 # The Fizz Language
+***Developed by Jack Milner***
+\
+\
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/jackmilner)
 * A compiled language written for simplicity and reduced typing
 * Statically typed language
